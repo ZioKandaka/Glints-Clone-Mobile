@@ -1,0 +1,22 @@
+services:
+  app-service:
+    build: ./services/app
+    ports:
+      - "4002:4002"
+    environment:
+      SECRET: "secret"
+      NODE_ENV: "production"
+      DATABASE_URL: "postgresql://postgres:ZioHacktiv8@db.wnrqwecirqgisiupchbf.supabase.co:5432/postgres"
+  user-service:
+    build: ./services/users
+    ports:
+      - "4001:4001"
+    environment:
+      DATABASE_URL: "mongodb+srv://ziokaelani:Td6YS9WdXwIpjRdt@cluster1.ebtsm8s.mongodb.net/?retryWrites=true&w=majority"
+  orchestrator:
+    build: ./orchestrator
+    ports: 
+      - "80:4000"
+    environment:
+      ORIGIN: "http://app-service:4002"
+      USER_ORIGIN: "http://user-service:4001"

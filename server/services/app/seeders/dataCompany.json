@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Goceng",
+    "companyLogo": "https://1.bp.blogspot.com/-DCZPTZhbuOw/YIJtfI43UlI/AAAAAAAACj0/Ky5ZU0Kb7woucb0cgHMkn6MVpXZmgogeACNcBGAsYHQ/s2048/Gojek.png",
+    "location": "Bandung",
+    "email": "goceng@mail.com",
+    "description": "Goceng is a leading provider of online taxi, food delivery, and package delivery services, serving millions of customers across the globe. Our platform connects riders with drivers in real-time, making it easy and convenient to get where you need to go. Our food delivery service allows customers to order food from their favorite local restaurants and have it delivered right to their doorstep. And our package delivery service provides fast and reliable shipping for businesses and individuals alike. We pride ourselves on providing high-quality services that are affordable, convenient, and safe. Our mission is to make transportation and delivery services accessible to everyone, no matter where they are in the world.",
+    "createdAt": "22-02-2022",
+    "updatedAt": "22-02-2022"
+  },
+  {
+    "id": 2,
+    "name": "Tokovid",
+    "companyLogo": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/arael/kratos/36c1015e.png",
+    "location": "Jakarta",
+    "email": "toko@mail.com",
+    "description": "We are an online shop unicorn that provides an easy-to-use platform for businesses of all sizes to sell their products online. Our platform allows businesses to create and customize their own online store with just a few clicks, and we provide a range of tools and features to help them manage their store, process orders, and accept payments. We also offer a range of marketing and analytics tools to help businesses grow their online presence and reach new customers. Our mission is to make e-commerce accessible to everyone, and we're passionate about helping businesses of all sizes succeed in the digital world. Whether you're just starting out or looking to take your business to the next level, Shopify is here to help you succeed.",
+    "createdAt": "22-02-2022",
+    "updatedAt": "22-02-2022"
+  },
+  {
+    "id": 3,
+    "name": "Bukalapar",
+    "companyLogo": "https://companieslogo.com/img/orig/BUKA.JK-25d1a629.png?t=1651810819",
+    "location": "Jakarta",
+    "email": "buka@mail.com",
+    "description": "Bukalapar is an e-commerce platform that offers a simple and user-friendly solution for businesses of all sizes to sell their products online. With Shopify, businesses can easily create their own customizable online store, and we provide a range of features and tools to help them manage their store, handle orders, and process payments. In addition, we offer various marketing and analytics tools to help businesses boost their online presence and attract new customers. At Shopify, we are committed to democratizing e-commerce and helping businesses of all sizes succeed in the digital world. Whether you are a budding entrepreneur or a well-established business, Shopify is here to assist you in achieving your online selling goals.",
+    "createdAt": "22-02-2022",
+    "updatedAt": "22-02-2022"
+  },
+  {
+    "id": 4,
+    "name": "Xenpai",
+    "companyLogo": "https://s3.amazonaws.com/beamstart/2021/Sep/15/46c2406db65b215c4a5f95a6dc2c6edf.jpeg",
+    "location": "Bandung",
+    "email": "xenpai@mail.com",
+    "description": "Xenpai is a leading payment gateway company that offers secure and reliable payment processing solutions for businesses of all sizes. Our platform provides a seamless payment experience for customers, allowing them to pay quickly and easily without any hassle. We support various payment methods, including credit and debit cards, digital wallets, and bank transfers. In addition, our advanced fraud prevention measures ensure that transactions are secure and protected against fraudsters. At PayGate, we are dedicated to delivering exceptional service and support to our customers, and we strive to make payment processing as simple and efficient as possible. Whether you are an e-commerce business, a brick-and-mortar store, or a large enterprise, PayGate is here to help you streamline your payment processing and grow your business.",
+    "createdAt": "22-02-2022",
+    "updatedAt": "22-02-2022"
+  },
+  {
+    "id": 5,
+    "name": "JULID",
+    "companyLogo": "https://w7.pngwing.com/pngs/112/892/png-transparent-loan-finance-julo-unsecured-debt-bank-bank-game-company-text.png",
+    "location": "Surabaya",
+    "email": "julo@mail.com",
+    "description": "JULID is a leading credit company that provides fast and easy access to credit for individuals and businesses. Our platform offers a range of credit options, including personal loans, business loans, and credit cards, with flexible terms and competitive interest rates. We use advanced technology and data analytics to assess creditworthiness quickly and accurately, enabling us to approve and disburse loans in as little as 24 hours. In addition, we provide personalized guidance and support to help our customers make informed decisions and achieve their financial goals. At CreditNow, we are committed to providing fair and transparent credit solutions that empower our customers and help them thrive. Whether you need funds for a personal project or a business expansion, CreditNow is here to help you access the credit you need, when you need it.",
+    "createdAt": "22-02-2022",
+    "updatedAt": "22-02-2022"
+  },
+  {
+    "id": 6,
+    "name": "Shomay",
+    "companyLogo": "https://www.freepnglogos.com/uploads/shopee-logo/shopee-circle-logo-design-shopping-bag-13.png",
+    "location": "Jakarta",
+    "email": "shoppie@mail.com",
+    "description": "Shomay is a women's clothing online shop that offers trendy and affordable fashion to women of all sizes. Our platform provides a wide selection of stylish dresses, tops, bottoms, and accessories that are perfect for any occasion. We believe that fashion should be inclusive, which is why we offer clothing in a range of sizes and styles to cater to every woman's unique fashion sense. At HerCloset, we are committed to providing exceptional customer service and ensuring that our customers have a seamless shopping experience. We offer free shipping on all orders, as well as easy returns and exchanges, so our customers can shop with confidence. Whether you're looking for the latest trends or wardrobe essentials, HerCloset has got you covered. Shop with us today and upgrade your closet with the latest fashion at affordable prices.",
+    "createdAt": "22-02-2022",
+    "updatedAt": "22-02-2022"
+  },
+  {
+    "id": 7,
+    "name": "Alfamale",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/ALFAMART_LOGO_BARU.png",
+    "location": "Semarang",
+    "email": "alfa@mail.com",
+    "description": "we are ordinary store with AC",
+    "createdAt": "22-02-2022",
+    "updatedAt": "22-02-2022"
+  }
+]

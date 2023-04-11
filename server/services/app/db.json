@@ -1,0 +1,360 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "jobId": 1,
+      "name": "Javascript",
+      "level": "Beginner"
+    },
+    {
+      "id": 2,
+      "jobId": 2,
+      "name": "Golang",
+      "level": "Intermediate"
+    },
+    {
+      "id": 3,
+      "jobId": 3,
+      "name": "Swift",
+      "level": "Advance"
+    },
+    {
+      "id": 4,
+      "jobId": 4,
+      "name": "Management",
+      "level": "Advance"
+    },
+    {
+      "id": 5,
+      "jobId": 5,
+      "name": "Business Acumen",
+      "level": "Beginner"
+    },
+    {
+      "id": 6,
+      "jobId": 6,
+      "name": "Marketing",
+      "level": "Advance"
+    },
+    {
+      "id": 7,
+      "jobId": 7,
+      "name": "Management",
+      "level": "Intermediate"
+    },
+    {
+      "id": 8,
+      "jobId": 1,
+      "name": "MongoDB",
+      "level": "Intermediate"
+    },
+    {
+      "id": 9,
+      "jobId": 2,
+      "name": "React",
+      "level": "Advance"
+    },
+    {
+      "name": "Driving",
+      "level": "Intermediate",
+      "jobId": 8,
+      "id": 10
+    },
+    {
+      "name": "Management",
+      "level": "Advance",
+      "jobId": 10,
+      "id": 11
+    },
+    {
+      "name": "Business",
+      "level": "Intermediate",
+      "jobId": 10,
+      "id": 12
+    },
+    {
+      "name": "Engineering",
+      "level": "Advance",
+      "jobId": 10,
+      "id": 13
+    },
+    {
+      "name": "Phyton",
+      "level": "Advance",
+      "jobId": 12,
+      "id": 16
+    },
+    {
+      "name": "Callback",
+      "level": "Advance",
+      "jobId": 14,
+      "id": 17
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Goceng",
+      "companyLogo": "https://1.bp.blogspot.com/-DCZPTZhbuOw/YIJtfI43UlI/AAAAAAAACj0/Ky5ZU0Kb7woucb0cgHMkn6MVpXZmgogeACNcBGAsYHQ/s2048/Gojek.png",
+      "location": "Bandung",
+      "email": "goceng@mail.com",
+      "description": "We deliver food and drive people around",
+      "createdAt": "22-02-2022",
+      "updatedAt": "22-02-2022"
+    },
+    {
+      "id": 2,
+      "name": "Tokovid",
+      "companyLogo": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/arael/kratos/36c1015e.png",
+      "location": "Jakarta",
+      "email": "toko@mail.com",
+      "description": "We sell stuff",
+      "createdAt": "22-02-2022",
+      "updatedAt": "22-02-2022"
+    },
+    {
+      "id": 3,
+      "name": "Bukalapar",
+      "companyLogo": "https://companieslogo.com/img/orig/BUKA.JK-25d1a629.png?t=1651810819",
+      "location": "Jakarta",
+      "email": "buka@mail.com",
+      "description": "We sell stuff",
+      "createdAt": "22-02-2022",
+      "updatedAt": "22-02-2022"
+    },
+    {
+      "id": 4,
+      "name": "Xenpai",
+      "companyLogo": "https://s3.amazonaws.com/beamstart/2021/Sep/15/46c2406db65b215c4a5f95a6dc2c6edf.jpeg",
+      "location": "Bandung",
+      "email": "xenpai@mail.com",
+      "description": "Wanna send money? send to us",
+      "createdAt": "22-02-2022",
+      "updatedAt": "22-02-2022"
+    },
+    {
+      "id": 5,
+      "name": "JULID",
+      "companyLogo": "https://w7.pngwing.com/pngs/112/892/png-transparent-loan-finance-julo-unsecured-debt-bank-bank-game-company-text.png",
+      "location": "Surabaya",
+      "email": "julo@mail.com",
+      "description": "Grow with us",
+      "createdAt": "22-02-2022",
+      "updatedAt": "22-02-2022"
+    },
+    {
+      "id": 6,
+      "name": "Shomay",
+      "companyLogo": "https://www.freepnglogos.com/uploads/shopee-logo/shopee-circle-logo-design-shopping-bag-13.png",
+      "location": "Jakarta",
+      "email": "shoppie@mail.com",
+      "description": "Ronaldo is goat",
+      "createdAt": "22-02-2022",
+      "updatedAt": "22-02-2022"
+    },
+    {
+      "id": 7,
+      "name": "Alfamale",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/ALFAMART_LOGO_BARU.png",
+      "location": "Semarang",
+      "email": "alfa@mail.com",
+      "description": "we are ordinary store with AC",
+      "createdAt": "22-02-2022",
+      "updatedAt": "22-02-2022"
+    },
+    {
+      "name": "GG COMP",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/2048px-BMW_logo_%28gray%29.svg.png",
+      "location": "batavia",
+      "email": "bmw@mail.com",
+      "description": "carsa",
+      "createdAt": "2023-03-15T17:55:11.997Z",
+      "updatedAt": "2023-03-15T17:55:11.997Z",
+      "id": 8
+    },
+    {
+      "name": "Test",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/2048px-BMW_logo_%28gray%29.svg.png",
+      "location": "ok",
+      "email": "ok",
+      "description": "ok",
+      "createdAt": "2023-03-15T17:57:28.910Z",
+      "updatedAt": "2023-03-15T17:57:28.910Z",
+      "id": 9
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Backend Developer",
+      "companyId": 1,
+      "minimumSalary": 8000000,
+      "maximumSalary": 11000000,
+      "minimumExperience": 1,
+      "maximumExperience": 3,
+      "postDate": "today",
+      "category": "Technology",
+      "authorId": 1,
+      "jobType": "Full Time",
+      "description": "This is a job"
+    },
+    {
+      "id": 2,
+      "title": "Frontend Developer",
+      "companyId": 2,
+      "minimumSalary": 7000000,
+      "maximumSalary": 12000000,
+      "minimumExperience": 1,
+      "maximumExperience": 4,
+      "postDate": "today",
+      "category": "Technology",
+      "authorId": 1,
+      "jobType": "Full Time",
+      "description": "This is a job"
+    },
+    {
+      "id": 3,
+      "title": "IOS Developer",
+      "companyId": 3,
+      "minimumSalary": 10000000,
+      "maximumSalary": 18000000,
+      "minimumExperience": 5,
+      "maximumExperience": 10,
+      "postDate": "today",
+      "category": "Technology",
+      "authorId": 1,
+      "jobType": "Full Time",
+      "description": "This is a job"
+    },
+    {
+      "id": 4,
+      "title": "Product Manager",
+      "companyId": 4,
+      "minimumSalary": 15000000,
+      "maximumSalary": 20000000,
+      "minimumExperience": 4,
+      "maximumExperience": 8,
+      "postDate": "today",
+      "category": "Technology",
+      "authorId": 1,
+      "jobType": "Full Time",
+      "description": "This is a job"
+    },
+    {
+      "id": 5,
+      "title": "Business Development",
+      "companyId": 5,
+      "minimumSalary": 5000000,
+      "maximumSalary": 11000000,
+      "minimumExperience": 1,
+      "maximumExperience": 3,
+      "postDate": "today",
+      "category": "Technology",
+      "authorId": 1,
+      "jobType": "Full Time",
+      "description": "This is a job"
+    },
+    {
+      "id": 6,
+      "title": "Marketing Manager",
+      "companyId": 6,
+      "minimumSalary": 25000000,
+      "maximumSalary": 35000000,
+      "minimumExperience": 8,
+      "maximumExperience": 10,
+      "postDate": "today",
+      "category": "Business",
+      "authorId": 1,
+      "jobType": "Full Time",
+      "description": "This is a job"
+    },
+    {
+      "id": 7,
+      "title": "Retail Manager",
+      "companyId": 7,
+      "minimumSalary": 8000000,
+      "maximumSalary": 11000000,
+      "minimumExperience": 5,
+      "maximumExperience": 8,
+      "postDate": "today",
+      "category": "Supply Chain",
+      "authorId": 1,
+      "jobType": "Full Time",
+      "description": "This is a job"
+    },
+    {
+      "title": "Driver",
+      "companyId": "1",
+      "minimumSalary": "4500000",
+      "maximumSalary": "8000000",
+      "minimumExperience": "0",
+      "maximumExperience": "5",
+      "category": "Operation",
+      "type": "Contract",
+      "description": "Drive people around",
+      "authorId": 1,
+      "postDate": "today",
+      "id": 8
+    },
+    {
+      "title": "Engineering Manager",
+      "companyId": "2",
+      "minimumSalary": "40000000",
+      "maximumSalary": "60000000",
+      "minimumExperience": "8",
+      "maximumExperience": "15",
+      "category": "Technology",
+      "type": "Full Time",
+      "description": "Manage people",
+      "authorId": 1,
+      "postDate": "today",
+      "id": 10
+    },
+    {
+      "title": "Data Engineer",
+      "companyId": "7",
+      "minimumSalary": "15000000",
+      "maximumSalary": "20000000",
+      "minimumExperience": "4",
+      "maximumExperience": "8",
+      "category": "Technology",
+      "type": "Full Time",
+      "description": "make pipelines",
+      "authorId": 1,
+      "postDate": "today",
+      "id": 12
+    },
+    {
+      "title": "Instructor",
+      "companyId": "3",
+      "minimumSalary": "1000000",
+      "maximumSalary": "52000000",
+      "minimumExperience": "1",
+      "maximumExperience": "5",
+      "category": "IT",
+      "type": "Full Time",
+      "description": "Teach",
+      "authorId": 1,
+      "postDate": "today",
+      "id": 14
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "username": "admin1",
+      "email": "admin@mail.com",
+      "password": "123456",
+      "phoneNumber": "081234567898",
+      "address": "Jakarta"
+    },
+    {
+      "username": "Maximo",
+      "email": "maximo@mail.com",
+      "password": "123456",
+      "phoneNumber": "012345678912",
+      "address": "Bekasi",
+      "id": 2
+    }
+  ]
+}
